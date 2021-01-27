@@ -1,2 +1,3 @@
-# tower-collection-test
-Testing collection for Ansible Tower.
+# Ansible Collection - jdmold.test
+
+Documentation for the collection.

@@ -1,0 +1,16 @@
+namespace: jdmold
+name: test
+version: 1.0.0
+readme: README.md
+authors:
+  - Joshua Moldenhauer <jdmold@gmail.com>
+description: Testing functionality of different plugins.
+license: []
+license_file: LICENSE
+tags: []
+dependencies: {}
+repository: https://github.com/jdmold/tower-collection-test
+documentation: https://github.com/jdmold/tower-collection-test
+homepage: https://github.com/jdmold/tower-collection-test
+issues: https://github.com/jdmold/tower-collection-test/issues
+build_ignore: []
